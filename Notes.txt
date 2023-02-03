@@ -1,0 +1,5 @@
+Major Difference between abstractive and extractive approaches of the text summarization
+
+Extractive : In extractive approach ML algorithm takes some important words and then summarizes these words into new sentence, original meaning might get changed
+
+Abstractive : In abstractive approach of data summariation, new sentences are formed by original data, having same meaning as of previous data.
